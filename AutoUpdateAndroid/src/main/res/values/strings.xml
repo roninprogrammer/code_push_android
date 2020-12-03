@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="android_auto_update_dialog_title">New Version found</string>
+
+    <string name="android_auto_update_notify_ticker">Found a new version, click to upgrade</string>
+    <string name="android_auto_update_notify_content">Found a new version, click to upgrade</string>
+
+    <string name="android_auto_update_dialog_btn_download">Download Now</string>
+    <string name="android_auto_update_dialog_btn_cancel">Try it later</string>
+
+    <string name="android_auto_update_toast_no_new_update">Latest Version</string>
+
+    <string name="android_auto_update_download_progress">Downloading …</string>
+
+    <string name="android_auto_update_dialog_checking">Checking Version</string>
+</resources>

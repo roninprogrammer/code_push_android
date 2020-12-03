@@ -1,0 +1,3 @@
+include ':AutoUpdateAndroid'
+include ':app'
+rootProject.name = "AndroidAutoUpdate"
